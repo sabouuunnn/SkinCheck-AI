@@ -16,7 +16,7 @@
 
 ### 📱 Скриншоты приложения
 
-| Интерфейс | Анализ | Обучение модели |
+| Главный экран | Выбор фото | Ответ |
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/bebbc601-ebc0-463e-948f-9a8d51be8c76" width="200"> | <img src="https://github.com/user-attachments/assets/7702af42-9695-4719-bfae-5a7e49c433e7" width="200"> | <img src="https://github.com/user-attachments/assets/8850b9f3-3aaf-4093-97dc-cb852a7311ef" width="200"> |
 
