@@ -1,20 +1,17 @@
-# 🛡️ SkinCheck AI
-Мобильное приложение для предварительного анализа кожных новообразований с использованием нейросетей.
-
-### 🌟 Основные функции
-* **ИИ-анализ**: Распознавание типов поражений кожи (Melanoma, Nevus и др.) через TensorFlow.js.
-* **Контекст среды**: Учет текущей температуры и UV-индекса для оценки рисков.
-* **Мобильность**: Построено на Expo (React Native) для работы на iOS.
-
-### 🛠 Стек технологий
+#  SkinCheck AI
+A mobile application for preliminary analysis of skin lesions using machine learning.
+###  Основные функции
+* **AI Analysis**: Recognize skin lesion types (Melanoma, Nevus, etc.) using TensorFlow.js.
+* **Environmental Context**: Consider current temperature and UV index for risk assessment.
+* **Mobility**: Built on Expo (React Native) for iOS.
+###  Стек технологий
 * **Frontend**: React Native (Expo v54)
-* **ML**: TensorFlow.js + Teachable Machine
-* **API**: Open-Meteo (погода и UV)
+* **ML**: TensorFlow.js - Teachable Machine
+* **API**: Open-Meteo (weather and UV)
 
-### ⚠️ Дисклеймер
-Приложение создано в учебных целях. Результаты анализа не являются медицинским диагнозом. При любых подозрениях обратитесь к специалисту.
-
-### 📱 Скриншоты приложения
+###  Дисклеймер
+This app is for educational purposes only. The test results are not a medical diagnosis. If you have any concerns, consult a specialist.
+###  Скриншоты приложения
 
 | Главный экран | Выбор фото | Ответ |
 |:---:|:---:|:---:|
